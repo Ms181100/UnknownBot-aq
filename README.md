@@ -13,7 +13,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/Nurutomo/UnknownBot-aq 
-cd wabot-aq
+cd UnknownBot-aq
 npm install
 npm update
 ```
@@ -41,13 +41,13 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WABOT-AQ ]
+[ INSTALLING NODEJS & UnknownBot-aq ]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Nurutomo/UnknownBot-aq 
 cd wabot-aq
 npm install
 npm update
@@ -64,7 +64,7 @@ npm update
 
 ```bash
 git clone https://github.com/Nurutomo/UnknownBot-aq 
-cd wabot-aq
+cd UnknownBot-aq 
 npm install
 npm update
 ```
@@ -182,4 +182,4 @@ Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active 
 
 NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
 
-Best Regards. wabot-aq
+Best Regards. UnknownBot-aq
